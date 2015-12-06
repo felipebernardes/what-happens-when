@@ -1,21 +1,39 @@
 What happens when...
 ====================
 
+O que acontece quando...
+====================
+
 This repository is an attempt to answer the age old interview question "What
 happens when you type google.com into your browser's address box and press
 enter?"
 
+Esse repositório é uma tentativa de resposta à velha pergunta "O que acontece
+quando você escreve google.com na barra de endereços do seu navegador e
+aperta enter?" realizada em entrevistas de emprego.
+
+
 Except instead of the usual story, we're going to try to answer this question
 in as much detail as possible. No skipping out on anything.
+
+Ao contrário de respostas usuais, nós iremos tentar responder essa questão
+com o máximo de detalhes possível. Sem pular nada.
 
 This is a collaborative process, so dig in and try to help out! There's tons of
 details missing, just waiting for you to add them! So send us a pull request,
 please!
 
+Esse é um processo colaborativo, então chega junto e tente ajudar! Há toneladas
+de detalhes faltando, apenas esperando pra que você os adicione! Então,
+envie-nos um pull request, por favor!
+
 This is all licensed under the terms of the `Creative Commons Zero`_ license.
+Tudo isso é licensiado sobre os termos da licensa 'Creative Commons Zero'.
 
 Read this in `简体中文`_ (simplified Chinese). NOTE: this has not been reviewed
 by the alex/what-happens-when maintainers.
+Você pode ler o repositório original em Inglês [aqui]() ou em Chinês (não revisado
+pelos criadores do repositório original) [aqui]().
 
 Table of Contents
 ====================
